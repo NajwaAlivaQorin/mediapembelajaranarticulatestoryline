@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="MEDIA PEMBELAJARAN NAJWA" />
+              <option name="title_text" value="MEDIA PEMBELAJARAN NAJWA 2" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -80,7 +80,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="false" />
+          <option name="bottombar_enabled" value="true" />
         </options>
       </optiongroup>
     </optiongroups>
@@ -1300,6 +1300,7 @@
         <slidelink slideid="_player.6dSzZVEX4gk" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6dSzZVEX4gk.6ZQGLL0n4gL" displaytext="halaman utama" expand="false" type="slide" />
+            <slidelink slideid="_player.6dSzZVEX4gk.6a8NOfKli9h" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6dSzZVEX4gk.5mw6iAu7vxX" displaytext="menu" expand="false" type="slide" />
             <slidelink slideid="_player.6dSzZVEX4gk.6gXwOCbKoDz" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6dSzZVEX4gk.5pfNCd3pIO9" displaytext="petunjuk penggunaan" expand="false" type="slide" />
@@ -1319,10 +1320,10 @@
             <slidelink slideid="_player.6dSzZVEX4gk.5a5VmSJdZUG" displaytext="Quiz" expand="false" type="slide" />
             <slidelink slideid="_player.6dSzZVEX4gk.6ZPulK2Zb8r" displaytext="Sudut terbentuk apabila terdapat dua garis lurus yang saling .... " expand="false" type="slide" />
             <slidelink slideid="_player.6dSzZVEX4gk.6aV97eA73Sq" displaytext="Nama sudut di bawah yang benar adalah. . ." expand="false" type="slide" />
-            <slidelink slideid="_player.6dSzZVEX4gk.6Ts1WH26pe6" displaytext="Banyak sudut siku-siku pada bangun di atas yaitu. ." expand="false" type="slide" />
             <slidelink slideid="_player.6dSzZVEX4gk.6aAOTHe10XC" displaytext="Banyak sudut pada bentuk di bawah yaitu. . ." expand="false" type="slide" />
+            <slidelink slideid="_player.6dSzZVEX4gk.6ZoEdEWo0Qq" displaytext="Seret gambar ke nama sudut yang sesuai!" expand="false" type="slide" />
             <slidelink slideid="_player.6dSzZVEX4gk.6reGOd3GJoX" displaytext="Sudut paling besar yaitu nomor. . ." expand="false" type="slide" />
-            <slidelink slideid="_player.6dSzZVEX4gk.5gPM1FhACRH" displaytext="Besar sudut AOB yaitu. . ." expand="false" type="slide" />
+            <slidelink slideid="_player.6dSzZVEX4gk.6P3H1AHu9Lb" displaytext="Klik gambar sudut mana saja yang termasuk dalam sudut lancip!" expand="false" type="slide" />
             <slidelink slideid="_player.6dSzZVEX4gk.6U24HKB5zw6" displaytext="Sudut 75° termasuk sudut. . ." expand="false" type="slide" />
             <slidelink slideid="_player.6dSzZVEX4gk.5kSV6EmUKxE" displaytext="Sudut siku-siku adalah sudut yang besarnya. . ." expand="false" type="slide" />
             <slidelink slideid="_player.6dSzZVEX4gk.5wwAvnS3Jzt" displaytext="Sudut MON termasuk sudut. . " expand="false" type="slide" />
